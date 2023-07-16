@@ -25,3 +25,7 @@ Trong Generic, dấu chấm hỏi (?) được gọi là một đại diện (wi
 - Collection<?>: mô tả một tập hợp chấp nhận tất cả các loại đối số (chứa mọi kiểu đối tượng).
 - List<? extends Number>: mô tả một danh sách, nơi mà các phần tử là kiểu Number hoặc kiểu con của Number.
 - Comparator<? super String>: Mô tả một bộ so sánh (Comparator) mà thông số phải là String hoặc cha của String.
+## 🌍 Resources
+1. [Generics trong Java](https://codelearn.io/sharing/lam-quen-voi-generics-trong-java) <br>
+2. [java Generic Viblo](https://viblo.asia/p/java-generic-aWj53Xw1K6m) <br>
+3. [Generics in Java DevTo](https://dev.to/thecodess/generics-in-java-1np5) <br>
